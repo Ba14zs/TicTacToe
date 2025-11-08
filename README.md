@@ -59,21 +59,6 @@ When you start the game:
 
     Try to beat the bot — good luck! 😄
 
-📦 Directory Structure
-
-TicTacToe/
-├── Program.cs
-├── TicTacToe.csproj
-├── bin/
-├── obj/
-└── README.md
-
-    Note: You can safely ignore the bin/ and obj/ folders in your GitHub repo.
-    Add a .gitignore file containing:
-
-    bin/
-    obj/
-
 🧑‍💻 Author
 
 Developed by Ba14zs
