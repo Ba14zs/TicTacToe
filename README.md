@@ -1,6 +1,6 @@
 # 🎮 Tic-Tac-Toe by Ba14zs
 
-A simple **console-based Tic-Tac-Toe game** with an **AI opponent**, written in **C#**.  
+A simple **terminal-based Tic-Tac-Toe game** with an **AI opponent**, written in **C#**.  
 Fully cross-platform — runs on **Windows**, **Linux**, and **macOS**.
 
 ---
@@ -47,7 +47,7 @@ dotnet publish -c Release
 
 💾 Standalone Executables
 
-TicTacToe\bin\Release\net9.0\<youros>\publish\TicTacToe(.exe/Linux/Mac)
+In the donwloaded zip, you have to select your os (.7z file) then publish, then the executable
 
 🕹️ How to Play
 
