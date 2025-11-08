@@ -76,4 +76,4 @@ TicTacToe/
 
 🧑‍💻 Author
 
-Developed with ❤️ by Ba14zs
+Developed by Ba14zs
